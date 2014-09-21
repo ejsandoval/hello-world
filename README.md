@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-This is my first repository :)
+Hello
+My name is Esteban and I'm from Chile. I like design... like a lot.
